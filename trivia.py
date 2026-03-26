@@ -69,11 +69,16 @@ def see_leaderboard():
         exit()
 
 while op!= 3:
-    op= int(input("Random topics trivia\n 1) Play\n 2) Leaderboard\n 3) Exit\n >> "))
-    if op== 1:
-        user= round()
-        add_to_csv(user)
-    elif op== 2:
-        see_leaderboard()
-    elif op== 3:
-        print("Bye")
+    try:
+        op= int(input("Random topics trivia\n 1) Play\n 2) Leaderboard\n 3) Exit\n >> "))
+        if op== 1:
+            user= round()
+            add_to_csv(user)
+        elif op== 2:
+            see_leaderboard()
+        elif op== 3:
+            print("Bye")
+        else:
+            raise ValueError
+    except:
+        print("Invalid option!")
