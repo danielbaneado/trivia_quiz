@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "categoria": "Películas",
+        "pregunta": "¿En qué película aparece el personaje de Jack Sparrow?",
+        "opciones": {
+            "A": "La Momia",
+            "B": "Piratas del Caribe",
+            "C": "El Señor de los Anillos",
+            "D": "Gladiador"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 2,
+        "categoria": "Películas",
+        "pregunta": "¿Qué superhéroe dice la frase 'I am Iron Man'?",
+        "opciones": {
+            "A": "Thor",
+            "B": "Hulk",
+            "C": "Tony Stark",
+            "D": "Steve Rogers"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 3,
+        "categoria": "Películas",
+        "pregunta": "¿En qué año se estrenó la primera película de Harry Potter?",
+        "opciones": {
+            "A": "1999",
+            "B": "2000",
+            "C": "2001",
+            "D": "2003"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 4,
+        "categoria": "Películas",
+        "pregunta": "¿Quién dirige las películas de la saga El Señor de los Anillos?",
+        "opciones": {
+            "A": "James Cameron",
+            "B": "Peter Jackson",
+            "C": "Steven Spielberg",
+            "D": "Christopher Nolan"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 5,
+        "categoria": "Películas",
+        "pregunta": "¿Cuál es la película animada de Disney que transcurre en México durante el Día de Muertos?",
+        "opciones": {
+            "A": "Encanto",
+            "B": "Brave",
+            "C": "Coco",
+            "D": "Moana"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 6,
+        "categoria": "Películas",
+        "pregunta": "¿Qué actriz interpreta a Katniss Everdeen en Los Juegos del Hambre?",
+        "opciones": {
+            "A": "Emma Watson",
+            "B": "Jennifer Lawrence",
+            "C": "Shailene Woodley",
+            "D": "Scarlett Johansson"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 7,
+        "categoria": "Películas",
+        "pregunta": "¿Cuántas Infinity Stones existen en el Universo Marvel?",
+        "opciones": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 8,
+        "categoria": "Películas",
+        "pregunta": "¿En qué película Tom Hanks interpreta a un hombre atrapado en un aeropuerto?",
+        "opciones": {
+            "A": "Cast Away",
+            "B": "La Terminal",
+            "C": "Forrest Gump",
+            "D": "Philadelphia"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 9,
+        "categoria": "Películas",
+        "pregunta": "¿Cuál es el nombre del tiburón en Buscando a Nemo?",
+        "opciones": {
+            "A": "Jaws",
+            "B": "Bruce",
+            "C": "Shark",
+            "D": "Finn"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 10,
+        "categoria": "Películas",
+        "pregunta": "¿Qué película de ciencia ficción tiene la frase 'Houston, we have a problem'?",
+        "opciones": {
+            "A": "Gravity",
+            "B": "Interstellar",
+            "C": "Apollo 13",
+            "D": "The Martian"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 11,
+        "categoria": "Películas",
+        "pregunta": "¿En qué película un niño ve personas muertas sin saberlo?",
+        "opciones": {
+            "A": "El Exorcista",
+            "B": "El Sexto Sentido",
+            "C": "Poltergeist",
+            "D": "It"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 12,
+        "categoria": "Películas",
+        "pregunta": "¿Cuál es el nombre del villano principal de la saga Thor?",
+        "opciones": {
+            "A": "Ultron",
+            "B": "Thanos",
+            "C": "Loki",
+            "D": "Hela"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 13,
+        "categoria": "Películas",
+        "pregunta": "¿Qué película de Studio Ghibli presenta a la bruja Yubaba y el mundo del espíritus?",
+        "opciones": {
+            "A": "Mi vecino Totoro",
+            "B": "El viaje de Chihiro",
+            "C": "La princesa Mononoke",
+            "D": "Nausicaä"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 14,
+        "categoria": "Películas",
+        "pregunta": "¿En qué ciudad transcurre la película Black Panther?",
+        "opciones": {
+            "A": "Lagos",
+            "B": "Nairobi",
+            "C": "Wakanda",
+            "D": "Johannesburgo"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 15,
+        "categoria": "Películas",
+        "pregunta": "¿Cuál es la película con más Oscars ganados en la historia?",
+        "opciones": {
+            "A": "Titanic",
+            "B": "El Señor de los Anillos: El Retorno del Rey",
+            "C": "Ben-Hur",
+            "D": "Todos con 11 Oscars"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "id": 16,
+        "categoria": "Películas",
+        "pregunta": "¿Quién compone la música de la mayoría de películas de Marvel?",
+        "opciones": {
+            "A": "Hans Zimmer",
+            "B": "John Williams",
+            "C": "Alan Silvestri",
+            "D": "Danny Elfman"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 17,
+        "categoria": "Películas",
+        "pregunta": "¿Qué película de Pixar presenta el mundo de los monstruos que asustan niños?",
+        "opciones": {
+            "A": "Buscando a Nemo",
+            "B": "Monsters, Inc.",
+            "C": "Toy Story",
+            "D": "The Incredibles"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 18,
+        "categoria": "Series",
+        "pregunta": "¿Cuántas temporadas tiene Breaking Bad?",
+        "opciones": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 19,
+        "categoria": "Series",
+        "pregunta": "¿En qué ciudad ficticia transcurre Stranger Things?",
+        "opciones": {
+            "A": "Springfield",
+            "B": "Hawkins",
+            "C": "Riverdale",
+            "D": "Stars Hollow"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 20,
+        "categoria": "Series",
+        "pregunta": "¿Cómo se llama el personaje principal de The Office (versión americana)?",
+        "opciones": {
+            "A": "Jim Halpert",
+            "B": "Dwight Schrute",
+            "C": "Michael Scott",
+            "D": "Ryan Howard"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 21,
+        "categoria": "Series",
+        "pregunta": "¿De qué año es la primera temporada de Game of Thrones?",
+        "opciones": {
+            "A": "2009",
+            "B": "2010",
+            "C": "2011",
+            "D": "2012"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 22,
+        "categoria": "Series",
+        "pregunta": "¿Qué serie presenta un grupo de adolescentes resolviendo crímenes sobrenaturales en los 80s?",
+        "opciones": {
+            "A": "Dark",
+            "B": "Stranger Things",
+            "C": "Outer Banks",
+            "D": "The Society"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 23,
+        "categoria": "Series",
+        "pregunta": "¿Cuál es el nombre de la familia principal en Los Simpson?",
+        "opciones": {
+            "A": "Griffin",
+            "B": "Belcher",
+            "C": "Simpson",
+            "D": "Smith"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 24,
+        "categoria": "Series",
+        "pregunta": "¿Cuántos episodios tiene la temporada 1 de The Last of Us en HBO?",
+        "opciones": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "12"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 25,
+        "categoria": "Series",
+        "pregunta": "¿Qué serie de Netflix trata sobre una escuela de élite en España y un robo en la Casa de la Moneda?",
+        "opciones": {
+            "A": "Élite",
+            "B": "La Casa de Papel",
+            "C": "Cable Girls",
+            "D": "Gran Hotel"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 26,
+        "categoria": "Series",
+        "pregunta": "¿Cómo se llama el personaje que dice 'I am the one who knocks' en Breaking Bad?",
+        "opciones": {
+            "A": "Saul Goodman",
+            "B": "Hank Schrader",
+            "C": "Walter White",
+            "D": "Jesse Pinkman"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 27,
+        "categoria": "Series",
+        "pregunta": "¿En qué plataforma se estrenó originalmente Squid Game?",
+        "opciones": {
+            "A": "HBO",
+            "B": "Disney+",
+            "C": "Amazon Prime",
+            "D": "Netflix"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "id": 28,
+        "categoria": "Series",
+        "pregunta": "¿Qué serie animada tiene a los personajes Stan, Kyle, Cartman y Kenny?",
+        "opciones": {
+            "A": "Futurama",
+            "B": "Family Guy",
+            "C": "South Park",
+            "D": "American Dad"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 29,
+        "categoria": "Series",
+        "pregunta": "¿Cuántos juegos hay en Squid Game temporada 1?",
+        "opciones": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 30,
+        "categoria": "Series",
+        "pregunta": "¿Qué actor interpreta a Eleven en Stranger Things?",
+        "opciones": {
+            "A": "Sadie Sink",
+            "B": "Millie Bobby Brown",
+            "C": "Natalia Dyer",
+            "D": "Caleb McLaughlin"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 31,
+        "categoria": "Series",
+        "pregunta": "¿En qué serie un químico de secundaria se convierte en fabricante de drogas?",
+        "opciones": {
+            "A": "Narcos",
+            "B": "Ozark",
+            "C": "Breaking Bad",
+            "D": "Snowfall"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 32,
+        "categoria": "Series",
+        "pregunta": "¿Qué serie de ciencia ficción tiene los personajes Rick y Morty?",
+        "opciones": {
+            "A": "Futurama",
+            "B": "Solar Opposites",
+            "C": "Rick and Morty",
+            "D": "Disenchantment"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 33,
+        "categoria": "Series",
+        "pregunta": "¿Cuántas temporadas tiene Friends en total?",
+        "opciones": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 34,
+        "categoria": "Anime",
+        "pregunta": "¿Cuál es el apellido del protagonista de Naruto?",
+        "opciones": {
+            "A": "Uchiha",
+            "B": "Uzumaki",
+            "C": "Hatake",
+            "D": "Hyuga"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 35,
+        "categoria": "Anime",
+        "pregunta": "¿En qué anime aparece el ataque 'Kamehameha'?",
+        "opciones": {
+            "A": "Bleach",
+            "B": "One Piece",
+            "C": "Dragon Ball",
+            "D": "Fairy Tail"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 36,
+        "categoria": "Anime",
+        "pregunta": "¿Cómo se llama el demonio zorro sellado dentro de Naruto?",
+        "opciones": {
+            "A": "Shukaku",
+            "B": "Gyuki",
+            "C": "Kurama",
+            "D": "Matatabi"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 37,
+        "categoria": "Anime",
+        "pregunta": "¿Cuál es el sueño de Monkey D. Luffy en One Piece?",
+        "opciones": {
+            "A": "Ser el mejor espadachín del mundo",
+            "B": "Encontrar el One Piece y ser Rey de los Piratas",
+            "C": "Convertirse en Marine Admiral",
+            "D": "Dibujar el mapa del mundo"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 38,
+        "categoria": "Anime",
+        "pregunta": "¿Qué anime trata sobre cazadores de demonios en el Japón de la era Taisho?",
+        "opciones": {
+            "A": "Jujutsu Kaisen",
+            "B": "Demon Slayer",
+            "C": "Bleach",
+            "D": "Noragami"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 39,
+        "categoria": "Anime",
+        "pregunta": "¿Cuál es el nombre del protagonista de Attack on Titan?",
+        "opciones": {
+            "A": "Levi Ackerman",
+            "B": "Armin Arlert",
+            "C": "Eren Yeager",
+            "D": "Mikasa Ackerman"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 40,
+        "categoria": "Anime",
+        "pregunta": "¿Qué poder tiene Tanjiro Kamado en Demon Slayer?",
+        "opciones": {
+            "A": "Control del agua y el fuego usando estilos de respiración",
+            "B": "Transformarse en demonio",
+            "C": "Volar con alas demoníacas",
+            "D": "Congelar enemigos con hielo"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "id": 41,
+        "categoria": "Anime",
+        "pregunta": "¿Cuántos Pilares (Hashira) existen en Demon Slayer?",
+        "opciones": {
+            "A": "7",
+            "B": "8",
+            "C": "9",
+            "D": "10"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 42,
+        "categoria": "Anime",
+        "pregunta": "¿En qué anime los personajes usan maldiciones y técnicas de hechizos malditos?",
+        "opciones": {
+            "A": "Black Clover",
+            "B": "Jujutsu Kaisen",
+            "C": "Fairy Tail",
+            "D": "Fullmetal Alchemist"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 43,
+        "categoria": "Anime",
+        "pregunta": "¿Cómo se llama el arma de Ichigo Kurosaki en Bleach?",
+        "opciones": {
+            "A": "Excalibur",
+            "B": "Zangetsu",
+            "C": "Muramasa",
+            "D": "Senbonzakura"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 44,
+        "categoria": "Anime",
+        "pregunta": "¿Qué anime trata sobre un chico que encuentra un cuaderno que mata a quien le escriben el nombre?",
+        "opciones": {
+            "A": "Mirai Nikki",
+            "B": "Another",
+            "C": "Death Note",
+            "D": "Danganronpa"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 45,
+        "categoria": "Anime",
+        "pregunta": "¿Cuál es el nombre del estudio que produjo Dragon Ball Z?",
+        "opciones": {
+            "A": "Bones",
+            "B": "Toei Animation",
+            "C": "Madhouse",
+            "D": "Mappa"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 46,
+        "categoria": "Anime",
+        "pregunta": "¿Qué personaje de My Hero Academia tiene el Quirk 'One For All'?",
+        "opciones": {
+            "A": "Katsuki Bakugo",
+            "B": "Shoto Todoroki",
+            "C": "Izuku Midoriya",
+            "D": "Tenya Iida"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 47,
+        "categoria": "Anime",
+        "pregunta": "¿En qué anime los humanos viven dentro de murallas para protegerse de los titanes?",
+        "opciones": {
+            "A": "Kabaneri of the Iron Fortress",
+            "B": "Attack on Titan",
+            "C": "Seraph of the End",
+            "D": "God Eater"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 48,
+        "categoria": "Anime",
+        "pregunta": "¿Cuál es la técnica más poderosa de Goku en Dragon Ball Super?",
+        "opciones": {
+            "A": "Super Saiyan Blue",
+            "B": "Ultra Instinct",
+            "C": "Kaioken x100",
+            "D": "Spirit Bomb Definitiva"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 49,
+        "categoria": "Anime",
+        "pregunta": "¿De qué país es originario el anime como formato?",
+        "opciones": {
+            "A": "China",
+            "B": "Corea del Sur",
+            "C": "Japón",
+            "D": "Taiwán"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 50,
+        "categoria": "Anime",
+        "pregunta": "¿Cuántos miembros tiene la organización Akatsuki en Naruto Shippuden?",
+        "opciones": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "14"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 51,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuál es el nombre completo de la franquicia conocida como GTA?",
+        "opciones": {
+            "A": "Grand Theft Auto",
+            "B": "Grand Traffic Action",
+            "C": "Great Theft Auto",
+            "D": "Grand Theft Adventure"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "id": 52,
+        "categoria": "Videojuegos",
+        "pregunta": "¿En qué videojuego aparece el personaje Master Chief?",
+        "opciones": {
+            "A": "Call of Duty",
+            "B": "Halo",
+            "C": "Destiny",
+            "D": "Battlefield"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 53,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Qué empresa creó el videojuego Minecraft?",
+        "opciones": {
+            "A": "Valve",
+            "B": "Epic Games",
+            "C": "Mojang",
+            "D": "Roblox Corporation"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 54,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuál es el nombre del villano principal de la saga The Legend of Zelda?",
+        "opciones": {
+            "A": "Bowser",
+            "B": "Ganondorf",
+            "C": "Sephiroth",
+            "D": "Ridley"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 55,
+        "categoria": "Videojuegos",
+        "pregunta": "¿En qué año se lanzó el primer Fortnite Battle Royale?",
+        "opciones": {
+            "A": "2016",
+            "B": "2017",
+            "C": "2018",
+            "D": "2019"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 56,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Qué personaje es el protagonista de God of War?",
+        "opciones": {
+            "A": "Dante",
+            "B": "Kratos",
+            "C": "Achilles",
+            "D": "Perseus"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 57,
+        "categoria": "Videojuegos",
+        "pregunta": "¿En qué ciudad ficticia transcurre GTA V?",
+        "opciones": {
+            "A": "Liberty City",
+            "B": "Vice City",
+            "C": "Los Santos",
+            "D": "San Fierro"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 58,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuántos jugadores puede tener una partida de Among Us?",
+        "opciones": {
+            "A": "5 a 10",
+            "B": "4 a 15",
+            "C": "4 a 15",
+            "D": "5 a 15"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 59,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Qué tipo de juego es Stardew Valley?",
+        "opciones": {
+            "A": "Battle royale",
+            "B": "Simulación de granja / RPG",
+            "C": "Shooter en primera persona",
+            "D": "Juego de carreras"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 60,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuál es el nombre del protagonista de la saga Dark Souls?",
+        "opciones": {
+            "A": "Ashen One",
+            "B": "Chosen Undead",
+            "C": "Bearer of the Curse",
+            "D": "Depende del juego"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "id": 61,
+        "categoria": "Videojuegos",
+        "pregunta": "¿En qué videojuego debes construir un portal al Nether usando obsidiana?",
+        "opciones": {
+            "A": "Terraria",
+            "B": "Roblox",
+            "C": "Minecraft",
+            "D": "Valheim"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 62,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuál es la moneda principal del juego Animal Crossing?",
+        "opciones": {
+            "A": "Rubíes",
+            "B": "Estrellas",
+            "C": "Campanas (Bells)",
+            "D": "Nook Miles"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 63,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Qué empresa desarrolló el juego The Last of Us?",
+        "opciones": {
+            "A": "Rockstar Games",
+            "B": "Naughty Dog",
+            "C": "Insomniac Games",
+            "D": "Santa Monica Studio"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 64,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuál es el arma icónica del personaje Cloud en Final Fantasy VII?",
+        "opciones": {
+            "A": "Masamune",
+            "B": "Excalibur",
+            "C": "Buster Sword",
+            "D": "Zanmato"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 65,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Qué franquicia incluye los juegos Ocarina of Time, Breath of the Wild y Tears of the Kingdom?",
+        "opciones": {
+            "A": "Mario",
+            "B": "Metroid",
+            "C": "The Legend of Zelda",
+            "D": "Fire Emblem"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 66,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Cuántas estrellas necesitas para ver a Bowser por primera vez en Super Mario 64?",
+        "opciones": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "15"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "id": 67,
+        "categoria": "Videojuegos",
+        "pregunta": "¿Qué videojuego tiene el modo 'Impostor' donde un jugador debe eliminar a los demás en secreto?",
+        "opciones": {
+            "A": "Town of Salem",
+            "B": "Among Us",
+            "C": "Deceit",
+            "D": "Secret Neighbor"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 68,
+        "categoria": "Música",
+        "pregunta": "¿Cuál es el nombre real de Bad Bunny?",
+        "opciones": {
+            "A": "Raúl Alejandro Ocasio Ruiz",
+            "B": "Benito Antonio Martínez Ocasio",
+            "C": "Juan Luis Morera Luna",
+            "D": "José Álvaro Osorio Balvín"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 69,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista lanzó el álbum 'Midnights' en 2022?",
+        "opciones": {
+            "A": "Billie Eilish",
+            "B": "Olivia Rodrigo",
+            "C": "Taylor Swift",
+            "D": "Doja Cat"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 70,
+        "categoria": "Música",
+        "pregunta": "¿De qué país es originario el grupo BTS?",
+        "opciones": {
+            "A": "Japón",
+            "B": "China",
+            "C": "Tailandia",
+            "D": "Corea del Sur"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "id": 71,
+        "categoria": "Música",
+        "pregunta": "¿Qué canción de Harry Styles dice 'I'm having your baby, it's none of your business'?",
+        "opciones": {
+            "A": "Watermelon Sugar",
+            "B": "Adore You",
+            "C": "Treat People With Kindness",
+            "D": "Kiwi"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "id": 72,
+        "categoria": "Música",
+        "pregunta": "¿Cuántos Grammys ha ganado Beyoncé en total (hasta 2024)?",
+        "opciones": {
+            "A": "22",
+            "B": "28",
+            "C": "32",
+            "D": "38"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 73,
+        "categoria": "Música",
+        "pregunta": "¿Cuál es el nombre del álbum debut de Olivia Rodrigo?",
+        "opciones": {
+            "A": "Guts",
+            "B": "Sour",
+            "C": "Driver's License",
+            "D": "Good 4 U"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 74,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista colombiano es conocido por la canción 'Hawái'?",
+        "opciones": {
+            "A": "Shakira",
+            "B": "J Balvin",
+            "C": "Maluma",
+            "D": "Carlos Vives"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 75,
+        "categoria": "Música",
+        "pregunta": "¿En qué año se disolvió la banda One Direction?",
+        "opciones": {
+            "A": "2013",
+            "B": "2014",
+            "C": "2015",
+            "D": "2016"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 76,
+        "categoria": "Música",
+        "pregunta": "¿Cuál es el nombre del primer álbum de estudio de Billie Eilish?",
+        "opciones": {
+            "A": "Happier Than Ever",
+            "B": "When We All Fall Asleep, Where Do We Go?",
+            "C": "Don't Smile at Me",
+            "D": "Hit Me Hard and Soft"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 77,
+        "categoria": "Música",
+        "pregunta": "¿Qué género musical es el Reggaeton?",
+        "opciones": {
+            "A": "Rock latino",
+            "B": "Fusión de reggae jamaicano y hip-hop",
+            "C": "Salsa urbana",
+            "D": "Merengue electrónico"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 78,
+        "categoria": "Música",
+        "pregunta": "¿Cuál es el nombre artístico de Aubrey Drake Graham?",
+        "opciones": {
+            "A": "Lil Wayne",
+            "B": "Drake",
+            "C": "Future",
+            "D": "Travis Scott"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 79,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista tiene la canción más reproducida de Spotify de todos los tiempos (hasta 2024)?",
+        "opciones": {
+            "A": "Ed Sheeran",
+            "B": "Drake",
+            "C": "The Weeknd",
+            "D": "Bad Bunny"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 80,
+        "categoria": "Música",
+        "pregunta": "¿En qué ciudad nació Shakira?",
+        "opciones": {
+            "A": "Bogotá",
+            "B": "Medellín",
+            "C": "Barranquilla",
+            "D": "Cali"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 81,
+        "categoria": "Música",
+        "pregunta": "¿Cuántos integrantes tiene BTS?",
+        "opciones": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 82,
+        "categoria": "Música",
+        "pregunta": "¿Qué canción de Taylor Swift tiene el video musical con más vistas en YouTube de su discografía?",
+        "opciones": {
+            "A": "Shake It Off",
+            "B": "Blank Space",
+            "C": "Bad Blood",
+            "D": "Look What You Made Me Do"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 83,
+        "categoria": "Música",
+        "pregunta": "¿Cuál es el nombre del alter ego de Beyoncé?",
+        "opciones": {
+            "A": "Sasha Fierce",
+            "B": "Lemonade",
+            "C": "Queen B",
+            "D": "Renaissance"
+        },
+        "respuesta_correcta": "A"
+    },
+    {
+        "id": 84,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista urbano tiene el álbum 'Un Verano Sin Ti' lanzado en 2022?",
+        "opciones": {
+            "A": "J Balvin",
+            "B": "Maluma",
+            "C": "Bad Bunny",
+            "D": "Ozuna"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 85,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué símbolo se usa para comentarios de una línea en Python?",
+        "opciones": {
+            "A": "//",
+            "B": "/* */",
+            "C": "#",
+            "D": "--"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 86,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál de estas es una variable de tipo booleano en Python?",
+        "opciones": {
+            "A": "'True'",
+            "B": "True",
+            "C": "1",
+            "D": "\"verdadero\""
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 87,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué función se usa para mostrar texto en consola en Python?",
+        "opciones": {
+            "A": "console.log()",
+            "B": "echo()",
+            "C": "printf()",
+            "D": "print()"
+        },
+        "respuesta_correcta": "D"
+    },
+    {
+        "id": 88,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál es el resultado de 10 % 3 en Python?",
+        "opciones": {
+            "A": "3",
+            "B": "1",
+            "C": "0",
+            "D": "2"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 89,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué estructura de datos de Python permite guardar pares clave-valor?",
+        "opciones": {
+            "A": "Lista",
+            "B": "Tupla",
+            "C": "Diccionario",
+            "D": "Conjunto"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 90,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál es la forma correcta de crear una lista vacía en Python?",
+        "opciones": {
+            "A": "lista = {}",
+            "B": "lista = ()",
+            "C": "lista = []",
+            "D": "lista = <>"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 91,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué hace la función len() en Python?",
+        "opciones": {
+            "A": "Convierte a entero",
+            "B": "Retorna la longitud de un objeto",
+            "C": "Elimina un elemento",
+            "D": "Ordena una lista"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 92,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál es el operador de exponente en Python?",
+        "opciones": {
+            "A": "^",
+            "B": "exp()",
+            "C": "**",
+            "D": "^^"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 93,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué keyword se usa para definir una función en Python?",
+        "opciones": {
+            "A": "function",
+            "B": "def",
+            "C": "func",
+            "D": "define"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 94,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cómo se lee un archivo de texto en Python?",
+        "opciones": {
+            "A": "file.read('archivo.txt')",
+            "B": "open('archivo.txt').get()",
+            "C": "with open('archivo.txt', 'r') as f:",
+            "D": "read_file('archivo.txt')"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 95,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué módulo de Python se usa para trabajar con archivos JSON?",
+        "opciones": {
+            "A": "jsonlib",
+            "B": "json",
+            "C": "file",
+            "D": "data"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 96,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál es la diferencia entre una lista y una tupla en Python?",
+        "opciones": {
+            "A": "No hay diferencia",
+            "B": "La tupla usa corchetes y la lista paréntesis",
+            "C": "La lista es mutable y la tupla es inmutable",
+            "D": "La tupla puede tener más elementos"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 97,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué hace range(5) en Python?",
+        "opciones": {
+            "A": "Genera los números del 1 al 5",
+            "B": "Genera los números del 0 al 4",
+            "C": "Genera los números del 0 al 5",
+            "D": "Genera los números del 1 al 4"
+        },
+        "respuesta_correcta": "B"
+    },
+    {
+        "id": 98,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál es la forma correcta de importar el módulo random en Python?",
+        "opciones": {
+            "A": "include random",
+            "B": "require('random')",
+            "C": "import random",
+            "D": "using random"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 99,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Qué hace el método .append() en una lista de Python?",
+        "opciones": {
+            "A": "Elimina el último elemento",
+            "B": "Ordena la lista",
+            "C": "Agrega un elemento al final",
+            "D": "Busca un elemento"
+        },
+        "respuesta_correcta": "C"
+    },
+    {
+        "id": 100,
+        "categoria": "Programación Básica",
+        "pregunta": "¿Cuál es el resultado de bool('') en Python?",
+        "opciones": {
+            "A": "True",
+            "B": "False",
+            "C": "None",
+            "D": "Error"
+        },
+        "respuesta_correcta": "B"
+    }
+]
